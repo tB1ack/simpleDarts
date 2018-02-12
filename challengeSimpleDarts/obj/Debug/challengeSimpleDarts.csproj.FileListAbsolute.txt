@@ -1,0 +1,11 @@
+C:\Users\Tyler Blackman\source\repos\challengeSimpleDarts\challengeSimpleDarts\bin\challengeSimpleDarts.dll.config
+C:\Users\Tyler Blackman\source\repos\challengeSimpleDarts\challengeSimpleDarts\bin\challengeSimpleDarts.dll
+C:\Users\Tyler Blackman\source\repos\challengeSimpleDarts\challengeSimpleDarts\bin\challengeSimpleDarts.pdb
+C:\Users\Tyler Blackman\source\repos\challengeSimpleDarts\challengeSimpleDarts\bin\Darts.dll
+C:\Users\Tyler Blackman\source\repos\challengeSimpleDarts\challengeSimpleDarts\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Tyler Blackman\source\repos\challengeSimpleDarts\challengeSimpleDarts\bin\Darts.pdb
+C:\Users\Tyler Blackman\source\repos\challengeSimpleDarts\challengeSimpleDarts\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Tyler Blackman\source\repos\challengeSimpleDarts\challengeSimpleDarts\obj\Debug\challengeSimpleDarts.csprojResolveAssemblyReference.cache
+C:\Users\Tyler Blackman\source\repos\challengeSimpleDarts\challengeSimpleDarts\obj\Debug\challengeSimpleDarts.csproj.CoreCompileInputs.cache
+C:\Users\Tyler Blackman\source\repos\challengeSimpleDarts\challengeSimpleDarts\obj\Debug\challengeSimpleDarts.dll
+C:\Users\Tyler Blackman\source\repos\challengeSimpleDarts\challengeSimpleDarts\obj\Debug\challengeSimpleDarts.pdb

@@ -1,0 +1,6 @@
+C:\Users\Tyler Blackman\source\repos\challengeSimpleDarts\Darts\bin\Debug\Darts.dll
+C:\Users\Tyler Blackman\source\repos\challengeSimpleDarts\Darts\bin\Debug\Darts.pdb
+C:\Users\Tyler Blackman\source\repos\challengeSimpleDarts\Darts\obj\Debug\Darts.csprojResolveAssemblyReference.cache
+C:\Users\Tyler Blackman\source\repos\challengeSimpleDarts\Darts\obj\Debug\Darts.csproj.CoreCompileInputs.cache
+C:\Users\Tyler Blackman\source\repos\challengeSimpleDarts\Darts\obj\Debug\Darts.dll
+C:\Users\Tyler Blackman\source\repos\challengeSimpleDarts\Darts\obj\Debug\Darts.pdb

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2003
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "challengeSimpleDarts", "challengeSimpleDarts\challengeSimpleDarts.csproj", "{C94E9884-605B-44BA-B88D-39E26587DF86}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Darts", "Darts\Darts.csproj", "{A9E0D8F9-01D4-4C9C-B813-C972C156BC5D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C94E9884-605B-44BA-B88D-39E26587DF86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C94E9884-605B-44BA-B88D-39E26587DF86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C94E9884-605B-44BA-B88D-39E26587DF86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C94E9884-605B-44BA-B88D-39E26587DF86}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A9E0D8F9-01D4-4C9C-B813-C972C156BC5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9E0D8F9-01D4-4C9C-B813-C972C156BC5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9E0D8F9-01D4-4C9C-B813-C972C156BC5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9E0D8F9-01D4-4C9C-B813-C972C156BC5D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BDDBB03D-E8BA-4AC3-890F-DB7039BD8E7D}
+	EndGlobalSection
+EndGlobal
